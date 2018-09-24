@@ -25,7 +25,7 @@ package main
 import (
 	"log"
 
-	"github.com/PuerkitoBio/goquery"
+	"github.com/mamal72/gojib"
 )
 
 func main() {
