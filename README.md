@@ -29,13 +29,13 @@ import (
 )
 
 func main() {
-	iranianCarsPrices, _ := GetIranianCarsPrices() // returns []CarPrice, error
+	iranianCarsPrices, _ := gojib.GetIranianCarsPrices() // returns []CarPrice, error
 	log.Println("Iranian Cars:")
 	for _, car := range iranianCarsPrices {
 		log.Printf("%+v", car)
 	}
 
-	foreignCarsPrices, _ := GetForeignCarsPrices() // returns []CarPrice, error
+	foreignCarsPrices, _ := gojib.GetForeignCarsPrices() // returns []CarPrice, error
 	log.Println("Foreign Cars:")
 	for _, car := range foreignCarsPrices {
 		log.Printf("%+v", car)
