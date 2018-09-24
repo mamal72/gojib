@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/mamal72/gojib.svg?branch=master)](https://travis-ci.org/mamal72/gojib)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mamal72/gojib)](https://goreportcard.com/report/github.com/mamal72/gojib)
 [![GoDoc](https://godoc.org/github.com/mamal72/gojib?status.svg)](https://godoc.org/github.com/mamal72/gojib)
 [![license](https://img.shields.io/github/license/mamal72/gojib.svg)](https://github.com/mamal72/gojib/blob/master/LICENSE)
